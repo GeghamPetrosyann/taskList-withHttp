@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "fdce",
+      "text": "start project about shop",
+      "status": "in progress"
+    },
+    {
+      "id": "e0b6",
+      "text": "finish todo list",
+      "status": "completed"
+    },
+    {
+      "id": "e6b4",
+      "text": "order some details",
+      "status": "unstarted"
+    }
+  ]
+}
